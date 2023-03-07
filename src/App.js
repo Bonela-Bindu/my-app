@@ -12,7 +12,7 @@ const App = () => {
         b='\images\a10.jpg'
         c='\images\a3.png'
         n1="Oliver"
-        n2="Ethan"
+        n2="Rani"
         n3="Amelia"
         p1="Data Scientist"
         e1="Oliv@12.in"
